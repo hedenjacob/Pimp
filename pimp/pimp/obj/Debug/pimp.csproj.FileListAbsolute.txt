@@ -1,0 +1,8 @@
+C:\Users\Jacob Heden\source\repos\pimp\pimp\bin\Debug\pimp.exe.config
+C:\Users\Jacob Heden\source\repos\pimp\pimp\bin\Debug\pimp.exe
+C:\Users\Jacob Heden\source\repos\pimp\pimp\bin\Debug\pimp.pdb
+C:\Users\Jacob Heden\source\repos\pimp\pimp\obj\Debug\pimp.csproj.AssemblyReference.cache
+C:\Users\Jacob Heden\source\repos\pimp\pimp\obj\Debug\pimp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jacob Heden\source\repos\pimp\pimp\obj\Debug\pimp.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Heden\source\repos\pimp\pimp\obj\Debug\pimp.exe
+C:\Users\Jacob Heden\source\repos\pimp\pimp\obj\Debug\pimp.pdb
